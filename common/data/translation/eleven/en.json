@@ -1,0 +1,18 @@
+{
+  "headerText": "Change Language",
+  "welcome": "Welcome",
+  "title": "0x Consulting",
+  "logo": "Logo",
+  "ticker": "Distributed Ledger Consulting for",
+  "mainMessage": "Corporate governance, open finance & closed business networks",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiu sit amet consectetur adipisicing",
+  "notifyText": "Stay tuned for updates",
+  "buttonText": "Subscribe Email ",
+  "placeholder": "Enter email address",
+  "not_found": "404 - Page Not Found",
+  "copyrightText": "0x Consulting",
+  "languageText": "Current ",
+  "languageName": "English",
+  "successMsg": "Your email is safe with us.",
+  "errorMsg": "Oops!!Something went wrong."
+}
